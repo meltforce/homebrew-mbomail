@@ -1,6 +1,6 @@
 cask "mbomail" do
-  version "1.0.1"
-  sha256 "ded2183f8ae52c19c736d2df5f79e60d3d9afc0d289c66870243ed0ebd53202f"
+  version "1.0.2"
+  sha256 "fb983ff525814c90a631d0ce57043461409dc02847466b72236fb47a9b458719"
 
   url "https://github.com/meltforce/MBOMail/releases/download/v#{version}/MBOMail.dmg"
   name "MBOMail"
